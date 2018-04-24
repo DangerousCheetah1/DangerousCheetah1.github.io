@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $https://image.freepik.com/free-psd/abstract-background-design_1297-80.jpg;
+	background: #24478f
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
-  padding: 0;
+  line-height: 1.8;
+  margin: 1em 0 17px;
+  padding: 0.5;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.5;
   }
 }
 
