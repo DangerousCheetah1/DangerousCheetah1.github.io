@@ -73,5 +73,6 @@ Getting as far as I can with the PYTHON project.</td>
     <td>It's getting to the point where I am literally just not understanding anything so as a result I’m going to do some work on it at home and carry on a small bit to try and understand it a bit more.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-06-22 at 13.56.46.png">
 
 
