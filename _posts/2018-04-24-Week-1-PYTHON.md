@@ -73,5 +73,5 @@ Getting as far as I can with the PYTHON project.</td>
     <td>I’m starting to forget some code so if I just went and revised over it then I’d be doing a lot more but currently I’ve done about 7 or 8 exercises so I think I’m doing fine at the moment.</td>
   </tr>
 </table>
-
+<img src = "/images/Screenshot 2018-06-22 at 13.34.12.png">
 
