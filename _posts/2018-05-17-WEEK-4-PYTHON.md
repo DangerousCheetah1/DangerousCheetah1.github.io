@@ -73,5 +73,5 @@ Getting as far as I can with the PYTHON project.</td>
     <td>It would have been great if I hadn't had to leave during the lesson, so if I was in the lesson I would have liked to understand the code better in order to complete the lesson and be satisfied. </td>
   </tr>
 </table>
-
+<img src = "/images/Screenshot 2018-06-22 at 13.42.48.png">
 
